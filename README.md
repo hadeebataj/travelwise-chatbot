@@ -4,5 +4,5 @@
 
 Demo:
 
-https://github.com/hadeebataj/travelwise-chatbot/assets/61531844/8e02cbd4-fee0-41c6-b815-297355b0eae5
+https://github.com/hadeebataj/travelwise-chatbot/assets/61531844/bf52ad10-f95d-495b-b6ff-7e5a108495c8
 
